@@ -1,0 +1,19 @@
+  body {
+            font-family: Lato;
+        }
+        
+        #cartCount {
+             position: absolute;
+    display: none;
+   
+    line-height:18px;
+    top: 29px;
+    left: 7px;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #e74047;
+    color: white;
+    text-align: center;
+    font-size: 11px;
+        }
